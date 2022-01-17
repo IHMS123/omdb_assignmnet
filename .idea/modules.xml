@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/omdb_assignmnet.iml" filepath="$PROJECT_DIR$/.idea/modules/omdb_assignmnet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/omdb_assignmnet.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/omdb_assignmnet.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fancyaboutpagelib/omdb_assignmnet.fancyaboutpagelib.iml" filepath="$PROJECT_DIR$/.idea/modules/fancyaboutpagelib/omdb_assignmnet.fancyaboutpagelib.iml" />
+    </modules>
+  </component>
+</project>
